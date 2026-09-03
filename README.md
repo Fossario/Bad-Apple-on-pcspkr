@@ -8,6 +8,7 @@ Two parts:
 - **`midi_to_notes.py`** — turns a MIDI file into the note format the player reads.
 
 I didn't hardcode the Bad Apple melody in here since that's someone else's composition — instead you grab a MIDI of it yourself and convert it, which also means this repo works for any song, not just one.
+Update: I did actually upload the notes, but still you can still upload any midi file you want.
 
 ## Setup
 
